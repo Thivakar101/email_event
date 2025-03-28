@@ -1,0 +1,7 @@
+flask
+pandas
+spacy
+openpyxl
+schedule
+smtplib
+fuzzywuzzy
